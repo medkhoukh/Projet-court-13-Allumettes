@@ -1,4 +1,5 @@
-#Jeu des 13 Allumettes
+# Jeu des 13 Allumettes
+
 Le jeu des 13 allumettes se joue à deux joueurs qui, à tour de rôle, prennent 1, 2 ou 3 allumettes
 d’un tas qui en contient initialement 13. Le joueur qui prend la dernière allumette perd.
 L’application à développer doit permettre à deux joueurs de s’affronter. C’est l’ordinateur qui
